@@ -8,7 +8,7 @@ This is a solution to the [[News homepage challenge on Frontend Mentor](https://
   - [The challenge](#the-challenge)
   - [Screenshot](#screenshot)
   - [Links](#links)
-![image](https://github.com/user-attachments/assets/ff3ca661-ed69-4090-9bee-bebdf4aded75)
+
 
 ### Built with
 
